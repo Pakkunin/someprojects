@@ -29,7 +29,6 @@ number.addEventListener('input', function()	{
 		draw(row, col, 50);
 		draw(row,col1,50)
 
-		//Отрисовка другой стороны
 		
 
 
