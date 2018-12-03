@@ -1,0 +1,9 @@
+
+#c1 {
+	width: 600px;
+	height: 600px;
+	border: 3px solid black;
+	margin: 40px;
+	background: #e8e8e8;
+		transition: 0.3s;
+}
